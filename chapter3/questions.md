@@ -3,7 +3,7 @@
 1. What does it mean for Vim to be a modal editor, and how does this affect its usage?
 2. Name at least three primary modes in Vim and describe what each is used for.
 3. What command do you use to start Vim with a file named `notes.txt`?
-4. What are the Vim commands to (a) save a file, (b) quit without saving, and (c) save and quit?
+4. How to save a file in Vim?
 5. What command would you use in Vim to get help on the `:w` command?
 6. What do the keys `h`, `j`, `k`, and `l` do in Normal mode?
 7. What is the difference between the motions `0`, `^`, and `$`?
