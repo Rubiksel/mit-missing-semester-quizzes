@@ -17,6 +17,6 @@
 15. How would you SSH into a remote machine with the IP `192.168.246.142` as user `jjgo`?
 16. How can you securely copy a file named `notes.md` to a remote machine and rename it `foobar.md`?
 17. What does the `rsync -avP . jjgo@192.168.246.142:cmd` command do?
-18. What is the purpose of the `~/.ssh/config` file?
+18. What’s a common way to manage your dotfiles (like `.bashrc`, `.vimrc`) across multiple machines?
 19. How can you define a shortcut for SSH-ing to a specific host using the `~/.ssh/config` file?
 20. What is one benefit of using `rsync` over `scp` for large or interrupted transfers?
