@@ -19,4 +19,4 @@
 17. What does `git clone [url] [folder]` do?
 18. What is the difference between `git fetch` and `git pull`?
 19. How do you track a remote branch with `git branch --set-upstream-to=origin/master`?
-20. What do the following commands do and when would you use them: `git config`, `git stash`, `git stash pop`, `git blame [file]`?
+20. What do the following commands do and when would you use them: `git stash`, `git stash pop`, `git blame [file]`?
