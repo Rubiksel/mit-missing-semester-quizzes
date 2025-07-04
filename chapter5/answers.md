@@ -1,7 +1,7 @@
 ## Answers
 
 1. `SIGINT` (Ctrl+C) stops the current process.
-2. `SIGQUIT` (Ctrl+\) stops the process and makes a core dump.
+2. `SIGQUIT` (Ctrl+\\) stops the process and makes a core dump.
 3. `Ctrl+Z` pauses the process (sends `SIGTSTP`).
 4. `bg %1` resumes job 1 in the background.
 5. `kill -STOP %1` suspends job 1 using `SIGSTOP`.
